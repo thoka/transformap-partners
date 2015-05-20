@@ -353,10 +353,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.64"
-     inkscape:cx="770.68249"
+     inkscape:cx="381.75392"
      inkscape:cy="508.2589"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1-6"
+     inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      showguides="false"
@@ -395,6 +395,14 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-252.36212)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:1.199;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect6845"
+       width="1034.375"
+       height="903.125"
+       x="-37.5"
+       y="180.48712"
+       ry="0" />
     <image
        sodipodi:absref="/home/toka/dv/transformap/partners/Die_Mutmacherei/logo.jpg"
        xlink:href="Die_Mutmacherei/logo.jpg"
