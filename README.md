@@ -12,13 +12,13 @@
 * Cool Ideas Society - CONFIRMED
 * Ideenwerkstatt Bildungsagenten - CONFIRMED
 * Anstiftung Ertomis REMINDER -> @Daniel Überall, any news?
-* Workstation CONFIRMED
-* onYOURway - CONFIRMED
 * OuiShare - CONFIRMED
 * Transition Initiativen.de - CONFIRMED
 
 ## DONE
 
+* onYOURway
+* Workstation Ideenwerkstatt
 * OpenStreetMap
 * Orangotango
 * Allmendekontor
