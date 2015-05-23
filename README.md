@@ -1,6 +1,6 @@
 # transformap-partners
 
-Partner logo collection for TransforMap
+[Partner logo collection](http://discourse.transformap.co/t/collecting-supporter-and-partner-logos/365) for TransforMap
 
 ![TransforMap partners](logos.png)
 
