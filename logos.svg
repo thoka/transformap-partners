@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.91 r"
    sodipodi:docname="logos.svg"
-   inkscape:export-filename="/home/toka/dv/transformap/partners/logos.png"
+   inkscape:export-filename="logos.png"
    inkscape:export-xdpi="120"
    inkscape:export-ydpi="120">
   <defs
@@ -413,7 +413,7 @@
      id="layer1"
      transform="translate(0,-132.36212)">
     <image
-       sodipodi:absref="/home/toka/dv/transformap/partners/Die_Mutmacherei/logo.jpg"
+       sodipodi:absref="Die_Mutmacherei/logo.jpg"
        xlink:href="Die_Mutmacherei/logo.jpg"
        width="320.38153"
        height="140.64749"
@@ -423,7 +423,7 @@
        x="640.46503"
        y="339.14767" />
     <image
-       sodipodi:absref="/home/toka/dv/transformap/partners/Allmende_Kontor/logo.png"
+       sodipodi:absref="Allmende_Kontor/logo.png"
        xlink:href="Allmende_Kontor/logo.png"
        inkscape:transform-center-y="171.25243"
        inkscape:transform-center-x="-213.23689"
@@ -435,7 +435,7 @@
        x="37.5005"
        y="425.73035" />
     <image
-       sodipodi:absref="/home/toka/dv/transformap/partners/Commons_Institut/Commons Institut Logo_L_Farbe_einzeiler.jpg"
+       sodipodi:absref="Commons_Institut/Commons Institut Logo_L_Farbe_einzeiler.jpg"
        xlink:href="Commons_Institut/Commons Institut Logo_L_Farbe_einzeiler.jpg"
        width="574.24048"
        height="49.248749"
@@ -445,7 +445,7 @@
        x="15.75"
        y="993.90723" />
     <image
-       sodipodi:absref="/home/toka/dv/transformap/partners/ecobytes/ecobytes.png"
+       sodipodi:absref="ecobytes/ecobytes.png"
        xlink:href="ecobytes/ecobytes.png"
        width="112.89513"
        height="115.15304"
@@ -455,7 +455,7 @@
        x="482.12527"
        y="574.78571" />
     <image
-       sodipodi:absref="/home/toka/dv/transformap/partners/Förderverein_Wachstumswende/logo.png"
+       sodipodi:absref="Förderverein_Wachstumswende/logo.png"
        xlink:href="Förderverein_Wachstumswende/logo.png"
        width="298.84338"
        height="119.25"
@@ -465,7 +465,7 @@
        x="638.60901"
        y="709.32184" />
     <image
-       sodipodi:absref="/home/toka/dv/transformap/partners/Forum_Solidarische_Ökonomie/logo-h.jpg"
+       sodipodi:absref="Forum_Solidarische_Ökonomie/logo-h.jpg"
        xlink:href="Forum_Solidarische_Ökonomie/logo-h.jpg"
        width="343.20001"
        height="57.599998"
@@ -1005,8 +1005,8 @@
            transform="scale(0.1,0.1)" />
       </g>
       <image
-         sodipodi:absref="/home/toka/dv/transformap/partners/Grünanteil/Grünanteil_Logo_2_bis A4.png"
-         xlink:href="Grünanteil/Grünanteil_Logo_2_bis A4.png"
+         sodipodi:absref="Grünanteil/logo.svg"
+         xlink:href="Grünanteil/logo.svg"
          width="744"
          height="350.39999"
          preserveAspectRatio="none"
@@ -1020,7 +1020,7 @@
          style="fill:#000000" />
     </g>
     <image
-       sodipodi:absref="/home/toka/dv/transformap/partners/Konzeptwerk_Neue_Ökonomie/logo.png"
+       sodipodi:absref="Konzeptwerk_Neue_Ökonomie/logo.png"
        xlink:href="Konzeptwerk_Neue_Ökonomie/logo.png"
        width="242.08333"
        height="98"
@@ -1030,7 +1030,7 @@
        x="201.10484"
        y="581.21649" />
     <image
-       sodipodi:absref="/home/toka/dv/transformap/partners/Ressearch_and_Degrowth/logo.jpg"
+       sodipodi:absref="Ressearch_and_Degrowth/logo.jpg"
        xlink:href="Ressearch_and_Degrowth/logo.jpg"
        width="141.60001"
        height="141.60001"
@@ -1040,7 +1040,7 @@
        x="25.029119"
        y="565.4068" />
     <image
-       sodipodi:absref="/home/toka/dv/transformap/partners/sinnwerkstatt/logo.jpg"
+       sodipodi:absref="sinnwerkstatt/logo.jpg"
        xlink:href="sinnwerkstatt/logo.jpg"
        width="307"
        height="102.48186"
@@ -1050,7 +1050,7 @@
        x="639.33472"
        y="592.96704" />
     <image
-       sodipodi:absref="/home/toka/dv/transformap/partners/Transition_Forum_Österreich/logo.png"
+       sodipodi:absref="Transition_Forum_Österreich/logo.png"
        xlink:href="Transition_Forum_Österreich/logo.png"
        y="481.05792"
        x="180.9494"
@@ -1060,7 +1060,7 @@
        height="94.783203"
        width="284.34964" />
     <image
-       sodipodi:absref="/home/toka/dv/transformap/partners/get_active/logo.png"
+       sodipodi:absref="get_active/logo.png"
        xlink:href="get_active/logo.png"
        width="138.85297"
        height="112.34467"
@@ -1070,7 +1070,7 @@
        x="11.0625"
        y="847.39532" />
     <image
-       sodipodi:absref="/home/toka/dv/transformap/partners/Kunst-Stoffe/logo.jpg"
+       sodipodi:absref="Kunst-Stoffe/logo.jpg"
        xlink:href="Kunst-Stoffe/logo.jpg"
        width="103"
        height="103"
@@ -1161,7 +1161,7 @@
       </g>
     </g>
     <image
-       sodipodi:absref="/home/toka/dv/transformap/partners/Transition_Graz/logo.png"
+       sodipodi:absref="Transition_Graz/logo.png"
        xlink:href="Transition_Graz/logo.png"
        y="856.61499"
        x="595.93707"
@@ -1171,7 +1171,7 @@
        height="103.125"
        width="93.996712" />
     <image
-       sodipodi:absref="/home/toka/dv/transformap/partners/transition_lab/logo.png"
+       sodipodi:absref="transition_lab/logo.png"
        xlink:href="transition_lab/logo.png"
        y="247.8204"
        x="342.70099"
@@ -1181,8 +1181,8 @@
        height="143.93399"
        width="287.86798" />
     <image
-       sodipodi:absref="/home/toka/dv/transformap/partners/Transition_Town_Witzenhausen_e.V./logo-1.png"
-       xlink:href="Transition_Town_Witzenhausen_e.V./logo-1.png"
+       sodipodi:absref="Transition_Town_Witzenhausen_e.V./logo.png"
+       xlink:href="Transition_Town_Witzenhausen_e.V./logo.png"
        y="851.69995"
        x="199.88734"
        id="image5985"
@@ -1526,7 +1526,7 @@
       </g>
     </g>
     <image
-       sodipodi:absref="/home/toka/dv/transformap/partners/degrowth.de/logo.png"
+       sodipodi:absref="degrowth.de/logo.png"
        xlink:href="degrowth.de/logo.png"
        inkscape:transform-center-y="-78.125001"
        inkscape:transform-center-x="53.125001"
@@ -1548,7 +1548,7 @@
        id="path4934"
        style="fill:#476998;fill-opacity:1" />
     <image
-       sodipodi:absref="/home/toka/dv/transformap/partners/workstation_Ideenwerkstatt_e.V./logo.png"
+       sodipodi:absref="workstation_Ideenwerkstatt_e.V./logo.png"
        xlink:href="workstation_Ideenwerkstatt_e.V./logo.png"
        y="487.9631"
        x="715.25897"
@@ -1558,7 +1558,7 @@
        height="91.297997"
        width="222.60709" />
     <image
-       sodipodi:absref="/home/toka/dv/transformap/partners/onYOURway/logo.jpg"
+       sodipodi:absref="onYOURway/logo.jpg"
        xlink:href="onYOURway/logo.jpg"
        y="478.84265"
        x="588.75"
